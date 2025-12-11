@@ -1,0 +1,5 @@
+{
+  "name": "VideoLens AI - 视频镜头拆解",
+  "description": "一个基于 Gemini Nano Banana (Flash Image) 的工具，上传视频即可自动逐帧拆解镜头，并生成专业的 AI 绘画提示词（Prompts）。",
+  "requestFramePermissions": []
+}
